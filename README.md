@@ -33,6 +33,7 @@ The chart shows the number of patients affected by different medical conditions.
 - Pandas
 - Matplotlib
 - Power BI
+
   <img width="529" height="322" alt="image" src="https://github.com/user-attachments/assets/0a8c2f24-ceaa-4a5f-b830-3f5babedcf30" />
 
 
