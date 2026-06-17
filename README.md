@@ -21,7 +21,9 @@ The medical conditions included in the dataset are:
 - Pneumonia
 - Cancer
 
-## Visualization
+### Visualization
+## Disease Distribution Chart
+![Disease Distribution](chart.png)
 
 ### Disease Distribution Chart
 
