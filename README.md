@@ -23,7 +23,7 @@ The medical conditions included in the dataset are:
 
 ### Visualization
 ## Disease Distribution Chart
-![Disease Distribution](chart.png)
+![Disease Distribution](chart.jpeg)
 
 ### Disease Distribution Chart
 
